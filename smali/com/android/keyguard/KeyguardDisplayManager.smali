@@ -12,7 +12,7 @@
 
 
 # static fields
-.field private static DEBUG:Z = false
+.field private static DEBUG:Z
 
 
 # instance fields

@@ -34,7 +34,7 @@
 
     iget-object p0, p0, Lcom/android/keyguard/clock/-$$Lambda$ClockManager$S9mioM0D_PySk2QvGuzLMKZKbKs;->f$1:Lcom/android/systemui/plugins/ClockPlugin;
 
-    invoke-static {v0, p0}, Lcom/android/keyguard/clock/ClockManager;->lambda$reload$5(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/systemui/plugins/ClockPlugin;)V
+    invoke-static {v0, p0}, Lcom/android/keyguard/clock/ClockManager;->lambda$reload$6(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/systemui/plugins/ClockPlugin;)V
 
     return-void
 .end method

@@ -32,7 +32,7 @@
 
     check-cast p2, Lcom/android/keyguard/clock/ClockManager$AvailableClocks;
 
-    invoke-virtual {p0, p1, p2}, Lcom/android/keyguard/clock/ClockManager;->lambda$reload$6$ClockManager(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/keyguard/clock/ClockManager$AvailableClocks;)V
+    invoke-virtual {p0, p1, p2}, Lcom/android/keyguard/clock/ClockManager;->lambda$reload$7$ClockManager(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/keyguard/clock/ClockManager$AvailableClocks;)V
 
     return-void
 .end method
