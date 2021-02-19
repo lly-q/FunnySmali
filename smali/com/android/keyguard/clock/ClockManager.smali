@@ -196,6 +196,12 @@
 
     invoke-direct {p0, p2}, Lcom/android/keyguard/clock/ClockManager;->addBuiltinClock(Ljava/util/function/Supplier;)V
 
+    new-instance p2, Lcom/android/keyguard/clock/-$$Lambda$ClockManager$PTxXa4NJTfXpfMZeNRAQjc0KKNc;
+
+    invoke-direct {p2, p3, p1, p4}, Lcom/android/keyguard/clock/-$$Lambda$ClockManager$PTxXa4NJTfXpfMZeNRAQjc0KKNc;-><init>(Landroid/content/res/Resources;Landroid/view/LayoutInflater;Lcom/android/systemui/colorextraction/SysuiColorExtractor;)V
+
+    invoke-direct {p0, p2}, Lcom/android/keyguard/clock/ClockManager;->addBuiltinClock(Ljava/util/function/Supplier;)V
+
     .line 156
     invoke-virtual {p3}, Landroid/content/res/Resources;->getDisplayMetrics()Landroid/util/DisplayMetrics;
 
@@ -373,7 +379,18 @@
     return-object v0
 .end method
 
-.method static synthetic lambda$reload$5(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/systemui/plugins/ClockPlugin;)V
+.method static synthetic lambda$new$5(Landroid/content/res/Resources;Landroid/view/LayoutInflater;Lcom/android/systemui/colorextraction/SysuiColorExtractor;)Lcom/android/systemui/plugins/ClockPlugin;
+    .locals 1
+
+    .line 154
+    new-instance v0, Lcom/android/keyguard/clock/JavaClockController;
+
+    invoke-direct {v0, p0, p1, p2}, Lcom/android/keyguard/clock/JavaClockController;-><init>(Landroid/content/res/Resources;Landroid/view/LayoutInflater;Lcom/android/systemui/colorextraction/SysuiColorExtractor;)V
+
+    return-object v0
+.end method
+
+.method static synthetic lambda$reload$6(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/systemui/plugins/ClockPlugin;)V
     .locals 1
 
     .line 252
@@ -652,7 +669,7 @@
     return-void
 .end method
 
-.method public synthetic lambda$reload$6$ClockManager(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/keyguard/clock/ClockManager$AvailableClocks;)V
+.method public synthetic lambda$reload$7$ClockManager(Lcom/android/keyguard/clock/ClockManager$ClockChangedListener;Lcom/android/keyguard/clock/ClockManager$AvailableClocks;)V
     .locals 2
 
     .line 246

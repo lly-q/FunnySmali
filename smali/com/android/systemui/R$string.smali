@@ -382,6 +382,8 @@
 
 .field public static final clock_title_default:I = 0x7f1101de
 
+.field public static final clock_title_java:I = 0x7f11068e
+
 .field public static final clock_title_lineage:I = 0x7f1101df
 
 .field public static final config_cameraProtectionExcludedPackages:I = 0x7f1101e2
@@ -581,6 +583,8 @@
 .field public static final invalid_charger_text:I = 0x7f1102d2
 
 .field public static final invalid_charger_title:I = 0x7f1102d3
+
+.field public static final java_clock_text:I = 0x7f11068f
 
 .field public static final keyboard_key_back:I = 0x7f1102d6
 

@@ -76,6 +76,8 @@
 
 .field public static final invocation_lights:I = 0x7f0d005e
 
+.field public static final java_clock:I = 0x7f0d017b
+
 .field public static final keyboard_shortcut_app_item:I = 0x7f0d005f
 
 .field public static final keyboard_shortcuts_category_separator:I = 0x7f0d0060

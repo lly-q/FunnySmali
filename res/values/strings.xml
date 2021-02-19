@@ -1765,6 +1765,11 @@ Any user can update apps for all other users."</string>
     <string name="zen_priority_introduction">"You won't be disturbed by sounds and vibrations, except from alarms, reminders, events, and callers you specify. You'll still hear anything you choose to play including music, videos, and games."</string>
     <string name="zen_silence_introduction">This blocks ALL sounds and vibrations, including from alarms, music, videos, and games.</string>
     <string name="zen_silence_introduction_voice">"This blocks ALL sounds and vibrations, including from alarms, music, videos, and games. You'll still be able to make phone calls."</string>
+    <string name="clock_title_java">Java</string>
+    <string name="java_clock_text">"public class AODView {
+    public static void main(String[] args) {
+        System.out.println(\\\"It's: %s now.\\\");
+    }"</string>
     <item type="string" name="APKTOOL_DUMMY_421">false</item>
     <item type="string" name="APKTOOL_DUMMY_422">false</item>
 </resources>

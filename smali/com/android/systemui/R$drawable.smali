@@ -358,6 +358,8 @@
 
 .field public static final instant_icon:I = 0x7f0803ab
 
+.field public static final java_thumbnail:I = 0x7f080527
+
 .field public static final lineage_thumbnail:I = 0x7f0803e1
 
 .field public static final major_a_b:I = 0x7f0803e3
