@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_00"
+        android:maxLevel="0" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_01"
+        android:maxLevel="4" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_02"
+        android:maxLevel="8" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_03"
+        android:maxLevel="12" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_04"
+        android:maxLevel="16" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_05"
+        android:maxLevel="20" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_06"
+        android:maxLevel="24" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_07"
+        android:maxLevel="28" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_08"
+        android:maxLevel="32" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_09"
+        android:maxLevel="36" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_10"
+        android:maxLevel="40" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_11"
+        android:maxLevel="44" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_12"
+        android:maxLevel="48" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_13"
+        android:maxLevel="52" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_14"
+        android:maxLevel="56" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_15"
+        android:maxLevel="60" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_16"
+        android:maxLevel="64" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_17"
+        android:maxLevel="68" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_18"
+        android:maxLevel="72" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_19"
+        android:maxLevel="76" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_20"
+        android:maxLevel="80" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_21"
+        android:maxLevel="84" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_22"
+        android:maxLevel="88" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_23"
+        android:maxLevel="92" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_24"
+        android:maxLevel="96" />
+    <item
+        android:drawable="@drawable/exthm_stat_sys_battery_powersave_25"
+        android:maxLevel="100" />
+</level-list>

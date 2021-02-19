@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Cuir a-steach PIN an t-SIM. Tha %d oidhirp air fhàgail agad.</item>
+        <item quantity="one">Cuir a-steach PIN an t-SIM. Tha %d oidhirp air fhàgail agad mus bi agad ri bruidhinn ris a’ ghiùlanair agad airson a’ ghlas a thoirt far an uidheim agad.</item>
+        <item quantity="two">Cuir a-steach PIN an t-SIM. Tha %d oidhirp air fhàgail agad.</item>
+        <item quantity="few">Cuir a-steach PIN an t-SIM. Tha %d oidhirpean air fhàgail agad.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">Tha an SIM à comas a-nis. Cuir a-steach còd PUK airson leantainn air adhart. Tha %d oidhirp air fhàgail dhut gus nach gabh an SIM a chleachdadh a-rithist gu bràth tuilleadh. Cuir fios gun ghiùlanair airson barrachd fiosrachaidh.</item>
+        <item quantity="one">Tha an SIM à comas a-nis. Cuir a-steach còd PUK airson leantainn air adhart. Tha %d oidhirp air fhàgail dhut gus nach gabh an SIM a chleachdadh a-rithist gu bràth tuilleadh. Cuir fios gun ghiùlanair airson barrachd fiosrachaidh.</item>
+        <item quantity="two">Tha an SIM à comas a-nis. Cuir a-steach còd PUK airson leantainn air adhart. Tha %d oidhirp air fhàgail dhut gus nach gabh an SIM a chleachdadh a-rithist gu bràth tuilleadh. Cuir fios gun ghiùlanair airson barrachd fiosrachaidh.</item>
+        <item quantity="few">Tha an SIM à comas a-nis. Cuir a-steach còd PUK airson leantainn air adhart. Tha %d oidhirpean air fhàgail dhut gus nach gabh an SIM a chleachdadh a-rithist gu bràth tuilleadh. Cuir fios gun ghiùlanair airson barrachd fiosrachaidh.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Feuch ris a-rithist an ceann %d diog.</item>
+        <item quantity="one">Feuch ris a-rithist an ceann %d diog.</item>
+        <item quantity="two">Feuch ris a-rithist an ceann %d dhiog.</item>
+        <item quantity="few">Feuch ris a-rithist an ceann %d diogan.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Tha %s brath eile ann.</item>
+        <item quantity="one">Tha %s bhrath eile ann.</item>
+        <item quantity="two">Tha %s bhrath eile ann.</item>
+        <item quantity="few">Tha %s brathan eile ann.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d uidheam</item>
+        <item quantity="one">%d uidheam</item>
+        <item quantity="two">%d uidheam</item>
+        <item quantity="few">%d uidheaman</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Chaidh %1$d uidheam a cheangal</item>
+        <item quantity="one">Chaidh %1$d uidheam a cheangal</item>
+        <item quantity="two">Chaidh %1$d uidheam a cheangal</item>
+        <item quantity="few">Chaidh %1$d uidheaman a cheangal</item>
+    </plurals>
+</resources>

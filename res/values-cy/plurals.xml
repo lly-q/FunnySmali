@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Rho PIN y SIM. Mae gennyt %d cynnig yn weddill.</item>
+        <item quantity="zero">Rho PIN y SIM. Mae gennyt %d cynigion yn weddill.</item>
+        <item quantity="one">Rho PIN y SIM. Mae gennyt %d cynnig yn weddill cyn bydd yn rhaid cysylltu â dy ddarparwr gwasanaeth i ddatgloi dy ddyfais.</item>
+        <item quantity="two">Rho PIN y SIM. Mae gennyt %d cynnig yn weddill cyn bydd yn rhaid cysylltu â dy ddarparwr gwasanaeth i ddatgloi dy ddyfais.</item>
+        <item quantity="few">Rho PIN y SIM. Mae gennyt %d cynnig yn weddill.</item>
+        <item quantity="many">Rho PIN y SIM. Mae gennyt %d cynnig yn weddill.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">"Mae'r SIM nawr wedi'i analluogi. Rho god PUK i barhau. Mae gennyt %d cynnig yn weddill nes na fydd posib defnyddio'r SIM byth eto. Cysyllta â dy ddarparwr gwasanaeth am ragor o fanylion."</item>
+        <item quantity="zero">"Mae'r SIM nawr wedi'i analluogi. Rho god PUK i barhau. Mae gennyt %d cynigion yn weddill nes na fydd posib defnyddio'r SIM byth eto. Cysyllta â dy ddarparwr gwasanaeth am ragor o fanylion."</item>
+        <item quantity="one">"Mae'r SIM nawr wedi'i analluogi. Rho god PUK i barhau. Mae gennyt %d cynnig yn weddill nes na fydd posib defnyddio'r SIM byth eto. Cysyllta â dy ddarparwr gwasanaeth am ragor o fanylion."</item>
+        <item quantity="two">"Mae'r SIM nawr wedi'i analluogi. Rho god PUK i barhau. Mae gennyt %d gynnig yn weddill nes na fydd posib defnyddio'r SIM byth eto. Cysyllta â dy ddarparwr gwasanaeth am ragor o fanylion."</item>
+        <item quantity="few">"Mae'r SIM nawr wedi'i analluogi. Rho god PUK i barhau. Mae gennyt %d cynnig yn weddill nes na fydd posib defnyddio'r SIM byth eto. Cysyllta â dy ddarparwr gwasanaeth am ragor o fanylion."</item>
+        <item quantity="many">"Mae'r SIM nawr wedi'i analluogi. Rho god PUK i barhau. Mae gennyt %d chynnig yn weddill nes na fydd posib defnyddio'r SIM byth eto. Cysyllta â dy ddarparwr gwasanaeth am ragor o fanylion."</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Rhoddwyd PIN SIM anghywir. Mae gennyt %d cais yn weddill.</item>
+        <item quantity="zero">Rhoddwyd PIN SIM anghywir. Mae gennyt %d ceisiadau yn weddill.</item>
+        <item quantity="one">Rhoddwyd PIN SIM anghywir. Mae gennyt %d cais yn weddill.</item>
+        <item quantity="two">Rhoddwyd PIN SIM anghywir. Mae gennyt %d gais yn weddill.</item>
+        <item quantity="few">Rhoddwyd PIN SIM anghywir. Mae gennyt %d cais yn weddill.</item>
+        <item quantity="many">Rhoddwyd PIN SIM anghywir. Mae gennyt %d chais yn weddill.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Rhoddwyd PUK SIM anghywir. Mae gennyt %d cais yn weddill cyn bydd y SIM yn cael ei analluogi a dim posib ei ddefnyddio byth eto.</item>
+        <item quantity="zero">Rhoddwyd PUK SIM anghywir. Mae gennyt %d ceisiadau yn weddill cyn bydd y SIM yn cael ei analluogi a dim posib ei ddefnyddio byth eto.</item>
+        <item quantity="one">Rhoddwyd PUK SIM anghywir. Mae gennyt %d cais yn weddill cyn bydd y SIM yn cael ei analluogi a dim posib ei ddefnyddio byth eto.</item>
+        <item quantity="two">Rhoddwyd PUK SIM anghywir. Mae gennyt %d gais yn weddill cyn bydd y SIM yn cael ei analluogi a dim posib ei ddefnyddio byth eto.</item>
+        <item quantity="few">Rhoddwyd PUK SIM anghywir. Mae gennyt %d cais yn weddill cyn bydd y SIM yn cael ei analluogi a dim posib ei ddefnyddio byth eto.</item>
+        <item quantity="many">Rhoddwyd PUK SIM anghywir. Mae gennyt %d chais yn weddill cyn bydd y SIM yn cael ei analluogi a dim posib ei ddefnyddio byth eto.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r cyfrinair."</item>
+        <item quantity="zero">"Dyw'r ddyfais heb ei datgloi ers %d oriau. Cadarnha'r cyfrinair."</item>
+        <item quantity="one">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r cyfrinair."</item>
+        <item quantity="two">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r cyfrinair."</item>
+        <item quantity="few">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r cyfrinair."</item>
+        <item quantity="many">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r cyfrinair."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r patrwm."</item>
+        <item quantity="zero">"Dyw'r ddyfais heb ei datgloi ers %d oriau. Cadarnha'r patrwm."</item>
+        <item quantity="one">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r patrwm."</item>
+        <item quantity="two">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r patrwm."</item>
+        <item quantity="few">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r patrwm."</item>
+        <item quantity="many">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r patrwm."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r PIN."</item>
+        <item quantity="zero">"Dyw'r ddyfais heb ei datgloi ers %d oriau. Cadarnha'r PIN."</item>
+        <item quantity="one">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r PIN."</item>
+        <item quantity="two">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r PIN."</item>
+        <item quantity="few">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r PIN."</item>
+        <item quantity="many">"Dyw'r ddyfais heb ei datgloi ers %d awr. Cadarnha'r PIN."</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Rho gynnig arall arni mewn %d eiliad.</item>
+        <item quantity="zero">Rho gynnig arall arni ymhen %d eiliadau.</item>
+        <item quantity="one">Rho gynnig arall arni mewn 1 eiliad.</item>
+        <item quantity="two">Rho gynnig arall arni mewn %d eiliad.</item>
+        <item quantity="few">Rho gynnig arall arni mewn %d eiliad.</item>
+        <item quantity="many">Rho gynnig arall arni mewn %d eiliad.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s hysbysiad arall tu fewn.</item>
+        <item quantity="zero">%s rhagor o hysbysiadau tu fewn.</item>
+        <item quantity="one">%s hysbysiad arall tu fewn.</item>
+        <item quantity="two">%s hysbysiad arall tu fewn.</item>
+        <item quantity="few">%s hysbysiad arall tu fewn.</item>
+        <item quantity="many">%s hysbysiad arall tu fewn.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d dyfais</item>
+        <item quantity="zero">%d dyfeisiau</item>
+        <item quantity="one">%d dyfais</item>
+        <item quantity="two">%d ddyfais</item>
+        <item quantity="few">%d dyfais</item>
+        <item quantity="many">%d dyfais</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d awr</item>
+        <item quantity="zero">%d oriau</item>
+        <item quantity="one">%d awr</item>
+        <item quantity="two">%d awr</item>
+        <item quantity="few">%d awr</item>
+        <item quantity="many">%d awr</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d munud</item>
+        <item quantity="zero">%d munudau</item>
+        <item quantity="one">%d munud</item>
+        <item quantity="two">%d funud</item>
+        <item quantity="few">%d munud</item>
+        <item quantity="many">%d munud</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Gellir ychwanegu hyd at %d defnyddiwr.</item>
+        <item quantity="zero">Gellir ychwanegu %d mwy o ddefnyddwyr.</item>
+        <item quantity="one">Gellir ychwanegu dim ond un defnyddiwr.</item>
+        <item quantity="two">Gellir ychwanegu hyd at %d ddefnyddiwr.</item>
+        <item quantity="few">Gellir ychwanegu hyd at %d defnyddiwr.</item>
+        <item quantity="many">Gellir ychwanegu hyd at %d defnyddiwr.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">"%1$d dyfais wedi'u cysylltu"</item>
+        <item quantity="zero">"%1$d dyfais wedi'u cysylltu"</item>
+        <item quantity="one">"%1$d dyfais wedi'i chysylltu"</item>
+        <item quantity="two">"%1$d ddyfais wedi'u cysylltu"</item>
+        <item quantity="few">"%1$d dyfais wedi'u cysylltu"</item>
+        <item quantity="many">"%1$d dyfais wedi'u cysylltu"</item>
+    </plurals>
+</resources>
